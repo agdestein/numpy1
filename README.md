@@ -3,7 +3,7 @@
 Steps:
 
 1. Install [Git](https://git-scm.com/downloads). You can check if it is already installed by typing `git` in a terminal.
-2. Install [VSCode].
+2. Install [VSCode](https://code.visualstudio.com/).
 3. Open a terminal.
 4. Type the following:
     ```sh
